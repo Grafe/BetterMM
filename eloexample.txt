@@ -1,0 +1,20 @@
+Multiplicator 	20
+				400
+
+Hephaistos		1607	+10.20	-9.80
+Evander			1610	+10.12	-9.88	
+Endymion		1614	+10		-10
+Amun		2P	1505	+13.04	-6.96
+Alberic		2P	1723	+6.96	-13.04
+						W		L
+Combined		8059	+50.3	-49.7
+Median			1611.8
+
+Arawn			1605	+10.20	-9.80
+Volos			1623	+9.68	-10.32
+Hari			1613	+9.97	-10.03
+Ajax			1622	+9.71	-10.29
+Kerberos		1607	+10.14	-9.86
+						W		L
+Combined		8070	+49.7	-50.3
+Median			1614
